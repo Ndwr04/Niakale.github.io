@@ -14,7 +14,7 @@ Enfin, les résultats peuvent être visualisés sous forme de cartographie inter
 
 ## StockSmart : Application web de gestion de stock pour la grande distribution
 Projet collaboratif développé avec Omaima Mahjoub.
-[Voir le projet sur GitHub]([https://github.com/Omaima05/StockSmart])
+[Voir le projet sur GitHub](https://github.com/Omaima05/StockSmart)
 
 Site permettant d’enregistrer et d’organiser les produits par catégories. L’application affiche en temps réel les quantités disponibles en stock. Elle facilite la gestion des entrées lors des approvisionnements ainsi que des sorties liées aux ventes, pertes ou casses.
 
