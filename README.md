@@ -12,7 +12,7 @@ L’analyses des émotions présentes dans l’actualité mondiale s’effectue 
 Enfin, les résultats peuvent être visualisés sous forme de cartographie interactive et de graphique qui permettent une lecture à la fois émotionnelle et géographique de l’actualité mondiale.
 
 
-## StockSmart : Application web de gestion de stock pour la grande distribution
+## StockSmartPro : Application web de gestion de stock pour la grande distribution
 Projet collaboratif développé avec Omaima Mahjoub.
 [Voir le projet sur GitHub](https://github.com/Omaima05/StockSmart)
 
