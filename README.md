@@ -22,5 +22,5 @@ et des utilisateurs, tout en intégrant une architecture multi-enseignes.
 Objectif du projet : proposer une plateforme simple, fiable et visuellement professionnelle pour suivre les stocks en temps réel, sécuriser l’accès aux données et assurer la traçabilité des opérations.
 
 Projet collaboratif développé avec Omaima Mahjoub.
-[Voir le projet sur GitHub](https://github.com/Omaima05/StockSmart)
+[Voir le projet sur GitHub](https://github.com/Ndwr04/StockSmart-Pro)
 
